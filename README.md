@@ -1,4 +1,4 @@
-# C Programming questions:
+# Try to solve the following questions using C Programming language:
 
 ## C program to print an integer entered by the user
 
